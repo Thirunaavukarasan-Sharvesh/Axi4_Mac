@@ -36,7 +36,7 @@ Verification - Model_Sim, EDA playground for now!
 
 
 V. The structure and the designing modules 
-
+```
 MAC_Unit/
 │
 ├── src/                   # All design RTL files
@@ -52,7 +52,7 @@ MAC_Unit/
 │   ├── accumulator_tb.v   # Simple Verilog TB for accumulator
 │
 └── README.md              
-
+```
 VI. Checklist before integration
 
     1. Implement and pass unit tests for multiplier and adder.
