@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 // Black Cell : Combines two PG pairs into one group PG -> P high (Pij) G high (Gij) and the P low (Pjk) G low (Gjk)
 
 module Black_Box

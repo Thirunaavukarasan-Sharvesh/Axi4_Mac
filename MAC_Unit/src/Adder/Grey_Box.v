@@ -1,3 +1,5 @@
+`timescale 1ns/1ps
+
 module Grey_Box
 (
     input  wire  Pij,Gij,Gjk,
