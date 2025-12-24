@@ -1,4 +1,4 @@
-High-Speed AXI4-Lite Dynamic MAC Accelerator for RISC-V SoC Designs
+## High-Speed AXI4-Lite Dynamic MAC Accelerator for RISC-V SoC Designs
 
 This repository contains the RTL design, firmware, and testbenches for an
 AXI4-Lite integrated Dynamic Precision Multiply–Accumulate (MAC) unit
